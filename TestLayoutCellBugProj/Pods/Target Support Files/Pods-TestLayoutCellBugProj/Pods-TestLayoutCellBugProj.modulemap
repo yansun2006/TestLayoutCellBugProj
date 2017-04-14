@@ -1,0 +1,6 @@
+framework module Pods_TestLayoutCellBugProj {
+  umbrella header "Pods-TestLayoutCellBugProj-umbrella.h"
+
+  export *
+  module * { export * }
+}
